@@ -1,0 +1,27 @@
+
+@import "_normalize";
+@import "_variables";
+@import "_navbar";
+@import "_header";
+@import "_sections";
+@import "_about";
+@import "_productCreator";
+@import "_sampleProduct";
+@import "_footer";
+
+@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+// Optional
+@import "~bootstrap/scss/reboot";
+@import "~bootstrap/scss/type";
+@import "~bootstrap/scss/images";
+@import "~bootstrap/scss/code";
+@import "~bootstrap/scss/grid";
+
+//fonts
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap');
+
